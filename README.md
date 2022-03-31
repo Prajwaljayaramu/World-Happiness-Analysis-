@@ -5,7 +5,6 @@ Data analysis and forecasting applied to World Happiness
 Data analysis and forecasting applied to World Happiness
 The **World Happiness Report** is a landmark survey of the state of global happiness from 2015 to 2019. The report has gained global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
 
-![image](data/happiness.png)
 
 
 # Data
@@ -33,12 +32,5 @@ Although we know what these features are about, we don't know the unit of measur
 1. Give a clear picture of happiness around the world in 2019
 2. Analyse trends in happiness from 2015 to 2019
 
-<ins> Forecasting with Machine Learning</ins>(\*)
-1. Can we predict a country happiness if we know the gdp per capita, life expectancy and other factors values?
-2. Can we predict a country happiness thanks to its history (happiness+factors)?
-
-To answer these questions, we'll compare different regression models.
-
-(\*) *Although data don't contain related information, the global pandemic may have a tremendous impact on the results*
 
 <a name="Wo"></a>
